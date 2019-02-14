@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"..\/Downloads\/simple-dev-starter-master\/src\/img\/pipeMap1.png",
+ "imageheight":2000,
+ "imagewidth":250,
+ "margin":0,
+ "name":"pipMap",
+ "spacing":0,
+ "tilecount":1200,
+ "tiledversion":"1.2.2",
+ "tileheight":20,
+ "tilewidth":20,
+ "type":"tileset",
+ "version":1.2
+}
